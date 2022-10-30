@@ -31,3 +31,5 @@ I made a database in order to practice SQL. I was able to make a database about 
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Employees%20and%20departments%20Database`
 
 ## Video
+
+https://user-images.githubusercontent.com/99032604/198900098-0e465636-f649-4604-8bd7-0e5b70c3fb52.mp4
