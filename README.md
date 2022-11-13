@@ -28,6 +28,6 @@ I made a database in order to practice SQL. I was able to make a database about 
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Employees%20and%20departments%20Database`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Employees%20And%20Departments%20Database`
 
 ## Video
