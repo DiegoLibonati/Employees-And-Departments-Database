@@ -20,15 +20,9 @@ I made a database in order to practice SQL. I was able to make a database about 
 
 1. Mysql Workbench
 
-## Galery
-
-![Sql](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Mysql/Imagenes/emplydepmysql-0.jpg)
-
-![Sql](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Mysql/Imagenes/emplydepmysql-1.jpg)
-
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Employees%20And%20Departments%20Database`
+[`https://www.diegolibonati.com.ar/#/project/92`](https://www.diegolibonati.com.ar/#/project/92)
 
 ## Video
 
