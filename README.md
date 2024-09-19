@@ -13,8 +13,7 @@ I made a database in order to practice SQL. I was able to make a database about 
 
 ## Technologies used
 
-1. Mysql
-2. Sql
+1. Sql
 
 ## Tools used
 
