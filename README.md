@@ -1,4 +1,4 @@
-# Employees-And-Departments-Database
+# Employees And Departments Database
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ I made a database in order to practice SQL. I was able to make a database about 
 
 ## Portfolio Link
 
-[`https://www.diegolibonati.com.ar/#/project/92`](https://www.diegolibonati.com.ar/#/project/92)
+[`https://www.diegolibonati.com.ar/#/project/`](https://www.diegolibonati.com.ar/#/project/)
 
 ## Video
 
