@@ -22,7 +22,7 @@ I made a database in order to practice SQL. I was able to make a database about 
 
 ## Portfolio Link
 
-[`https://www.diegolibonati.com.ar/#/project/`](https://www.diegolibonati.com.ar/#/project/)
+[`https://www.diegolibonati.com.ar/#/project/Employees-And-Departments-Database`](https://www.diegolibonati.com.ar/#/project/Employees-And-Departments-Database)
 
 ## Video
 
